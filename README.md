@@ -80,3 +80,6 @@ These logos have been contributed to the dominant flickr groups representing the
 <li><a href="http://l-gauge.org/">L-Gauge.org</a></li>
 <li><a href="http://brickmodelrailroader.com/">Brick Model Railroader</a></li>
 <li><a href="http://www.eurobricks.com/forum/index.php?showforum=122">Eurobricks LEGO® Train Tech Forum</a></li>
+
+---
+<p><small>LEGO® is a trademark of the LEGO® Group of companies which does not sponsor, authorize or endorse this site.</small></p>

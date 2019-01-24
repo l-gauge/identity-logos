@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="40.79623 68.80682 304.53813 113.87147" width="304.53813" height="113.87147">
+  <defs>
+    <font-face font-family="IKEA Sans" font-size="46" panose-1="0 11 6 0 5 3 2 2 2 4" units-per-em="1000" underline-position="-256.83594" underline-thickness="61.60474" slope="0" x-height="-.9765625" cap-height="-.9765625" ascent="985.3516" descent="-256.83594" font-weight="800">
+      <font-face-src>
+        <font-face-name name="IKEASans-Heavy"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-01-24 01:53:42 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_146">
+        <g id="Graphic_148">
+          <path d="M 255.18766 87.30777 L 41.79623 87.30777 L 41.79623 164.17734 L 255.18766 164.17734 C 275.15486 181.49277 305.4089 180.66098 324.3878 161.68199 C 344.23673 141.83318 344.23673 109.65193 324.3878 89.80312 C 305.4089 70.824125 275.15486 69.99234 255.18766 87.30777 Z" fill="white"/>
+          <path d="M 255.18766 87.30777 L 41.79623 87.30777 L 41.79623 164.17734 L 255.18766 164.17734 C 275.15486 181.49277 305.4089 180.66098 324.3878 161.68199 C 344.23673 141.83318 344.23673 109.65193 324.3878 89.80312 C 305.4089 70.824125 275.15486 69.99234 255.18766 87.30777 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Graphic_147">
+          <circle cx="288.4484" cy="125.74255" r="36.8044144310875" fill="#ff2600"/>
+        </g>
+      </g>
+      <g id="Graphic_145">
+        <text transform="translate(88.80114 97.24257)" fill="black">
+          <tspan font-family="IKEA Sans" font-size="46" font-weight="800" fill="black" x=".4316406" y="45">-Gauge</tspan>
+        </text>
+      </g>
+      <g id="Graphic_144">
+        <path d="M 56.27066 134.95955 L 56.27066 141.61695 L 81.36204 141.61695 L 81.36204 131.59782 L 66.28979 131.59782 L 66.28979 109.86816 L 56.27066 109.86816 L 56.27066 134.95955 Z" fill="white"/>
+        <path d="M 56.27066 134.95955 L 56.27066 141.61695 L 81.36204 141.61695 L 81.36204 131.59782 L 66.28979 131.59782 L 66.28979 109.86816 L 56.27066 109.86816 L 56.27066 134.95955 Z" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="269.23913 764.5396 131.21572 117.16757" width="131.21572" height="117.16757">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-01-24 01:53:42 +0000</dc:date>
+  </metadata>
+  <g id="base_icons" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>base icons</title>
+    <g id="base_icons: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_364">
+        <path d="M 308.6617 784.6886 L 271.73913 784.6886 L 271.73913 861.5582 L 308.6617 861.5582 C 328.6289 878.8736 358.88295 878.0418 377.86185 859.0628 C 397.71076 839.214 397.71076 807.0328 377.86185 787.184 C 358.88295 768.205 328.6289 767.3732 308.6617 784.6886 Z" fill="white"/>
+        <path d="M 308.6617 784.6886 L 271.73913 784.6886 L 271.73913 861.5582 L 308.6617 861.5582 C 328.6289 878.8736 358.88295 878.0418 377.86185 859.0628 C 397.71076 839.214 397.71076 807.0328 377.86185 787.184 C 358.88295 768.205 328.6289 767.3732 308.6617 784.6886 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="5"/>
+      </g>
+      <g id="Graphic_365">
+        <circle cx="341.92243" cy="823.1234" r="36.8044144310875" fill="#ff2600"/>
+      </g>
+    </g>
+  </g>
+</svg>

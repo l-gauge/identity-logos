@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="388.9974 26.28051 304.53813 283.32417" width="304.53813" height="283.32417">
+  <defs>
+    <font-face font-family="IKEA Sans" font-size="46" panose-1="0 11 6 0 5 3 2 2 2 4" units-per-em="1000" underline-position="-256.83594" underline-thickness="61.60474" slope="0" x-height="-.9765625" cap-height="-.9765625" ascent="985.3516" descent="-256.83594" font-weight="800">
+      <font-face-src>
+        <font-face-name name="IKEASans-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="IKEA Sans" font-size="42" panose-1="0 11 6 0 5 3 2 2 2 4" units-per-em="1000" underline-position="-256.83594" underline-thickness="61.8492" slope="0" x-height="-.9765625" cap-height="-.9765625" ascent="985.3516" descent="-256.83594" font-weight="700">
+      <font-face-src>
+        <font-face-name name="IKEASans-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-01-24 01:53:42 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_160">
+        <path d="M 389.9974 214.67993 L 578.3968 26.28051 L 626.0503 73.93396 L 437.65085 262.33338 Z" fill="#ff2600"/>
+      </g>
+      <g id="Group_157">
+        <g id="Graphic_159">
+          <path d="M 603.3888 214.23416 L 389.9974 214.23416 L 389.9974 291.10374 L 603.3888 291.10374 C 623.356 308.41916 653.6101 307.58738 672.589 288.60838 C 692.4379 268.75957 692.4379 236.57832 672.589 216.72952 C 653.6101 197.75052 623.356 196.91873 603.3888 214.23416 Z" fill="white"/>
+          <path d="M 603.3888 214.23416 L 389.9974 214.23416 L 389.9974 291.10374 L 603.3888 291.10374 C 623.356 308.41916 653.6101 307.58738 672.589 288.60838 C 692.4379 268.75957 692.4379 236.57832 672.589 216.72952 C 653.6101 197.75052 623.356 196.91873 603.3888 214.23416 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+        <g id="Graphic_158">
+          <circle cx="636.64955" cy="252.66894" r="36.8044144310875" fill="#ff2600"/>
+        </g>
+      </g>
+      <g id="Graphic_156">
+        <text transform="translate(437.0023 224.16896)" fill="black">
+          <tspan font-family="IKEA Sans" font-size="46" font-weight="800" fill="black" x=".4316406" y="45">-Gauge</tspan>
+        </text>
+      </g>
+      <g id="Graphic_155">
+        <path d="M 504.64164 99.42492 L 546.8177 57.248834 L 595.24444 105.67555 L 553.06835 147.85163 Z" fill="white"/>
+        <path d="M 504.64164 99.42492 L 546.8177 57.248834 L 595.24444 105.67555 L 553.06835 147.85163 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_154">
+        <path d="M 404.47183 261.88594 L 404.47183 268.54334 L 429.5632 268.54334 L 429.5632 258.5242 L 414.49095 258.5242 L 414.49095 236.79456 L 404.4718 236.79456 L 404.4718 261.88594 Z" fill="white"/>
+        <path d="M 404.47183 261.88594 L 404.47183 268.54334 L 429.5632 268.54334 L 429.5632 258.5242 L 414.49095 258.5242 L 414.49095 236.79456 L 404.4718 236.79456 L 404.4718 261.88594 Z" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+      </g>
+      <g id="Group_150">
+        <g id="Graphic_153">
+          <text transform="translate(537.366 53.20366) rotate(45)" fill="black">
+            <tspan font-family="IKEA Sans" font-size="42" font-weight="700" fill="black" x=".036132812" y="41">E</tspan>
+          </text>
+        </g>
+        <g id="Graphic_152">
+          <text transform="translate(580.69896 96.53658) rotate(45)" fill="black">
+            <tspan font-family="IKEA Sans" font-size="42" font-weight="700" fill="black" x=".10742188" y="41">PERT</tspan>
+          </text>
+        </g>
+        <g id="Graphic_151">
+          <path d="M 544.85987 97.46709 L 532.6608 97.46709 L 532.6608 106.13483 L 544.85987 106.13483 L 544.85987 118.33386 L 553.5276 118.33386 L 553.5276 106.13483 L 565.72664 106.13483 L 565.72664 97.46709 L 553.5276 97.46709 L 553.5276 85.26805 L 544.85987 85.26805 Z" fill="white"/>
+          <path d="M 544.85987 97.46709 L 532.6608 97.46709 L 532.6608 106.13483 L 544.85987 106.13483 L 544.85987 118.33386 L 553.5276 118.33386 L 553.5276 106.13483 L 565.72664 106.13483 L 565.72664 97.46709 L 553.5276 97.46709 L 553.5276 85.26805 L 544.85987 85.26805 Z" stroke="#ff2600" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

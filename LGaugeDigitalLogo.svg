@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="737.1986 195.7332 304.53813 283.3483" width="304.53813" height="283.3483">
+  <defs>
+    <font-face font-family="IKEA Sans" font-size="46" panose-1="0 11 6 0 5 3 2 2 2 4" units-per-em="1000" underline-position="-256.83594" underline-thickness="61.60474" slope="0" x-height="-.9765625" cap-height="-.9765625" ascent="985.3516" descent="-256.83594" font-weight="800">
+      <font-face-src>
+        <font-face-name name="IKEASans-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="IKEA Sans" font-size="42" panose-1="0 11 6 0 5 3 2 2 2 4" units-per-em="1000" underline-position="-256.83594" underline-thickness="61.8492" slope="0" x-height="-.9765625" cap-height="-.9765625" ascent="985.3516" descent="-256.83594" font-weight="700">
+      <font-face-src>
+        <font-face-name name="IKEASans-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.4 
+    <dc:date>2019-01-24 01:53:42 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_161">
+        <g id="Graphic_177">
+          <path d="M 978.7247 426.95484 L 978.7247 426.9548 L 790.3253 238.5554 L 738.1986 290.6821 L 926.598 479.0815 L 926.598 479.0815 L 923.0159 423.37274 Z" fill="#fffd78"/>
+        </g>
+        <g id="Group_171">
+          <g id="Group_174">
+            <g id="Graphic_176">
+              <path d="M 951.59 214.23415 L 738.1986 214.23415 L 738.1986 291.10373 L 951.59 291.10373 C 971.5572 308.41916 1001.8112 307.58737 1020.7902 288.60837 C 1040.639 268.75957 1040.639 236.57832 1020.7902 216.7295 C 1001.8113 197.75051 971.5572 196.91873 951.59 214.23415 Z" fill="white"/>
+              <path d="M 951.59 214.23415 L 738.1986 214.23415 L 738.1986 291.10373 L 951.59 291.10373 C 971.5572 308.41916 1001.8112 307.58737 1020.7902 288.60837 C 1040.639 268.75957 1040.639 236.57832 1020.7902 216.7295 C 1001.8113 197.75051 971.5572 196.91873 951.59 214.23415 Z" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+            </g>
+            <g id="Graphic_175">
+              <circle cx="984.8507" cy="252.66894" r="36.8044144310875" fill="#ff2600"/>
+            </g>
+          </g>
+          <g id="Graphic_173">
+            <text transform="translate(785.2035 224.16896)" fill="black">
+              <tspan font-family="IKEA Sans" font-size="46" font-weight="800" fill="black" x=".4316406" y="45">-Gauge</tspan>
+            </text>
+          </g>
+          <g id="Graphic_172">
+            <path d="M 752.673 261.88593 L 752.673 268.54334 L 777.7644 268.54334 L 777.7644 258.5242 L 762.6921 258.5242 L 762.6921 236.79455 L 752.673 236.79455 L 752.673 261.88593 Z" fill="white"/>
+            <path d="M 752.673 261.88593 L 752.673 268.54334 L 777.7644 268.54334 L 777.7644 258.5242 L 762.6921 258.5242 L 762.6921 236.79455 L 752.673 236.79455 L 752.673 261.88593 Z" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="miter" stroke-width="3"/>
+          </g>
+        </g>
+        <g id="Group_162">
+          <g id="Graphic_170">
+            <text transform="translate(804.3355 298.4745) rotate(45)" fill="black">
+              <tspan font-family="IKEA Sans" font-size="42" font-weight="700" fill="black" x=".28320312" y="41">D</tspan>
+            </text>
+          </g>
+          <g id="Graphic_169">
+            <text transform="translate(868.7001 362.83918) rotate(45)" fill="black">
+              <tspan font-family="IKEA Sans" font-size="42" font-weight="700" fill="black" x=".07128906" y="41">TAL</tspan>
+            </text>
+          </g>
+          <g id="Graphic_168">
+            <path d="M 833.1264 329.18768 C 833.1264 332.6935 830.2844 335.5355 826.7786 335.5355 C 823.2728 335.5355 820.4307 332.6935 820.4308 329.18768 C 820.4307 325.68187 823.2728 322.83986 826.7786 322.83986 C 830.2844 322.83986 833.1264 325.68187 833.1264 329.18768" fill="#ff2600"/>
+            <path d="M 833.1264 329.18768 C 833.1264 332.6935 830.2844 335.5355 826.7786 335.5355 C 823.2728 335.5355 820.4307 332.6935 820.4308 329.18768 C 820.4307 325.68187 823.2728 322.83986 826.7786 322.83986 C 830.2844 322.83986 833.1264 325.68187 833.1264 329.18768" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+          <g id="Graphic_167">
+            <path d="M 813.49205 336.27893 L 819.6873 342.4742 L 804.624 357.53754 L 798.4287 351.3423 Z" fill="black"/>
+          </g>
+          <g id="Graphic_166">
+            <text transform="translate(836.2513 330.3903) rotate(45)" fill="black">
+              <tspan font-family="IKEA Sans" font-size="42" font-weight="700" fill="black" x=".052734375" y="41">G</tspan>
+            </text>
+          </g>
+          <g id="Graphic_165">
+            <path d="M 846.6208 369.4076 L 852.816 375.6029 L 837.7527 390.66623 L 831.5574 384.47097 Z" fill="black"/>
+          </g>
+          <g id="Graphic_164">
+            <path d="M 866.2551 362.3164 C 866.2551 365.8222 863.4131 368.6642 859.9073 368.6642 C 856.4015 368.6642 853.5594 365.8222 853.5595 362.3164 C 853.5594 358.81058 856.4015 355.96856 859.9073 355.96857 C 863.4131 355.96856 866.2551 358.81058 866.2551 362.3164" fill="#ff2600"/>
+            <path d="M 866.2551 362.3164 C 866.2551 365.8222 863.4131 368.6642 859.9073 368.6642 C 856.4015 368.6642 853.5594 365.8222 853.5595 362.3164 C 853.5594 358.81058 856.4015 355.96856 859.9073 355.96857 C 863.4131 355.96856 866.2551 358.81058 866.2551 362.3164" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+          <g id="Graphic_163">
+            <path d="M 851.494 329.8144 L 839.2949 329.8144 L 839.2949 338.48215 L 851.494 338.48215 L 851.494 350.6812 L 860.1617 350.6812 L 860.1617 338.48215 L 872.3607 338.48215 L 872.3607 329.8144 L 860.1617 329.8144 L 860.1617 317.61538 L 851.494 317.61538 Z" fill="white"/>
+            <path d="M 851.494 329.8144 L 839.2949 329.8144 L 839.2949 338.48215 L 851.494 338.48215 L 851.494 350.6812 L 860.1617 350.6812 L 860.1617 338.48215 L 872.3607 338.48215 L 872.3607 329.8144 L 860.1617 329.8144 L 860.1617 317.61538 L 851.494 317.61538 Z" stroke="#ff2600" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

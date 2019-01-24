@@ -46,7 +46,7 @@ These variants of the L-Gauge logo are to brand alternate themes or ideas within
 
 ## flickr "Lego Train MOCs" Groups
 
-These logos have been contributed to the dominant flickr groups representing the LEGO® train hobby community. The LEGO® Trian MOCs group (and its siblings) boast over 2000 members worldwide and was started in Nov 2006.
+These logos have been contributed to the dominant flickr groups representing the LEGO® train hobby community. The LEGO® Train MOCs group (and its siblings) boast over 2000 members worldwide and was started in Nov 2006.
 
 <table>
 <tr>
